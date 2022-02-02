@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Microfono</string>
+    <string name="grabar">Grabar</string>
+    <string name="reproducir">Reproducir</string>
+    <string name="parar">Parar</string>
+    <string name="ToastGrabar">Grabación de audio iniciada</string>
+    <string name="ToastGrabarDetenido">Grabación de audio detenida</string>
+    <string name="ToastReproducir">Reproduciendo audio</string>
+    <string name="NombreCarpeta">Audio</string>
+    <string name="NombreArchivoPrueba">testFile</string>
+    <string name="FormatoArchivo">.mp3</string>
+</resources>
